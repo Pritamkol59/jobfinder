@@ -110,7 +110,7 @@ window.location.reload();
             </p>
         </div>
     </div>
-</nav>:<div className="container-fluid" style={{ background: "#000", borderStyle: "none", paddingTop: "0", height: "80px",  display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+</nav>:<div className="container-fluid fixed-top" style={{ background: "#000", borderStyle: "none", paddingTop: "0", height: "80px",  display: "flex", justifyContent: "space-between", alignItems: "center" }}>
   <div>
     <NavLink className="navbar-brand" to="/"><span style={{ color:'#fff',fontSize:'25px' }} ><b>JobFinder</b></span> </NavLink>
   </div>
